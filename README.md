@@ -8,3 +8,8 @@ I'm a Machine Learning/Computer Vision📷 engineer who loves to build! My curre
 
 - My team won 🏁 the [F1Tenth](http://karpenet.github.io/f1tenth.html) - Autonomous Racing Challenge 🏎️ at ICRA 2022.
 - I also founded [Beeclust - Multi Robot Systems Lab](http://beeclust-mrsl.github.io)🐝 where we [built robots](http://karpenet.github.io/sprinter.html)🤖 and taught them to print🖨️!
+
+## Check this out!
+Here are some cool productivity tools I love to use everyday:
+- [https://ohmyz.sh](https://ohmyz.sh)
+- [http://cursor.com](http://cursor.com)
