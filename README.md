@@ -13,3 +13,4 @@ I'm a Machine Learning/Computer Vision📷 engineer who loves to build! My curre
 Here are some cool productivity tools I love to use everyday:
 - [https://ohmyz.sh](https://ohmyz.sh)
 - [http://cursor.com](http://cursor.com)
+- [https://www.speedscope.app](https://www.speedscope.app)
